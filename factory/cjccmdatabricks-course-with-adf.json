@@ -1,0 +1,9 @@
+{
+	"name": "cjccmdatabricks-course-with-adf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "21475732-e516-4774-9429-c95225fd7bfd",
+		"tenantId": "fb937257-4864-4e72-bbbb-e898aa870418"
+	}
+}
